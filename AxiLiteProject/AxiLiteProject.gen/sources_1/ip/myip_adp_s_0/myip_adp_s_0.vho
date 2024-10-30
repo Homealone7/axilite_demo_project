@@ -46,7 +46,7 @@
 -- 
 -- DO NOT MODIFY THIS FILE.
 -- IP VLNV: xilinx.com:user:myip_adp_s:1.0
--- IP Revision: 5
+-- IP Revision: 7
 
 -- The following code must appear in the VHDL architecture header.
 
